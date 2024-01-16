@@ -2,6 +2,18 @@
 
 This is a simple banking system implemented in Python using the `tkinter` library for the graphical user interface. The system allows users to create accounts, log in, and perform basic banking operations such as credit, debit, checking balance, and viewing transaction history.
 
+## Credits
+
+- **Author:** Shekhar Pawar
+- **Social Media:**
+  - [Facebook](https://www.facebook.com/pawar.shekhar.58)
+  - [Twitter](https://twitter.com/Shekharpawar709?s=08)
+  - [Instagram](https://instagram.com/shekharpawar__?igshid=cpaihz24m5pw)
+  - [LinkedIn](https://www.linkedin.com/in/shekhar-pawar-80006a1a9)
+  - [GitHub](https://www.github.com/pawarshekhar709?hr_r=1)
+  - 
+- **Date of Creation:** 10/03/2021 - 25/05/2021
+
 ## Features
 
 - Create a new bank account with a name, opening credit, and PIN.
